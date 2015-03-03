@@ -18,6 +18,14 @@ puts markdown.to_html
 ```html
 <html>
   <head></head>
-  <body></body>
+  <body>
+    <h1>Here is heading</h1>
+    <p>This is paragraph</p>
+    <a href="#">highlighting with some arguments>
+    <div>
+      <h2>block 1</h2>
+      <article>sometext</article>
+    </div>
+  </body>
 </html>
 ```
